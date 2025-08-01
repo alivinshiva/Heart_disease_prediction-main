@@ -50,6 +50,7 @@ The project employs a variety of machine learning algorithms to evaluate and pre
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/shu03bh/heart_disease_prediction.git
+   git clone https://github.com/alivinshiva/Heart_disease_prediction-main.git
    ```
 
 2. **Navigate to the Project Directory**:
